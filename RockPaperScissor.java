@@ -24,6 +24,7 @@ public class RockPaperScissor {
             System.out.println("Computer played: " + computer);
 
             // Determine the winner
+            //heloo my name is satyam
             if (playerMove.equals(computer)) {
                 System.out.println("The game is a tie.");
             } else if (playerMove.equals("r")) {
