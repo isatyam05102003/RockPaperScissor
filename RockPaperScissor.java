@@ -58,6 +58,8 @@ public class RockPaperScissor {
             }
         }
 
+        //the java code is closed now
+
         // Close the scanner to avoid resource leaks
         scanner.close();
     }
